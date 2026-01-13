@@ -1,10 +1,10 @@
 # Pipeline de ARIMA com Grid Search Paralelo
 
-Este repositório contém uma pipeline automatizada para a realização de estimativas do pre;o de fechamento de ativos financeiros utilizando o modelo ARIMA, com busca de hiperparâmetros otimizada via grid search paralelo.
+Este repositório contém uma pipeline automatizada para a realização de estimativas do preço de fechamento de ativos financeiros utilizando o modelo ARIMA, com busca de hiperparâmetros otimizada via grid search paralelo.
 
 ## Descrição do Projeto
 
-A implementação realiza um grid search paralelo para encontrar a ordem mais apropriada do modelo ARIMA. A ordem com menor AIC (Critério de Informação de Akaike) é escolhida como a definitiva, visando maior precisão nas estimativas.
+A aplicação realiza um grid search paralelo para encontrar a ordem mais apropriada do modelo ARIMA. A ordem com menor AIC (Critério de Informação de Akaike) é escolhida como a definitiva, visando maior precisão nas estimativas.
 
 ## Instalação
 
