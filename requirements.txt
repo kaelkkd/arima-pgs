@@ -1,0 +1,8 @@
+pandas
+matplotlib
+yfinance
+numpy
+statsmodels
+joblib
+
+
